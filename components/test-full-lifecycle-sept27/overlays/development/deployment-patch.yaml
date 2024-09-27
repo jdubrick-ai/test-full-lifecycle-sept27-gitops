@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jdubrick-ai/test-full-lifecycle-sept27:08d0dc5236ec11523797c2976fe0d4ada5dff244@sha256:f20be6e70678081402559071f154b7b9c5ffed5a5ada57914eb95eb50a9e3304 # use pre-built to bootstrap 
+        - image: quay.io/jdubrick-ai/test-full-lifecycle-sept27:221c80830c32c7eec911424b97f3a2864646da34@sha256:4dad74756b3ec18ae170c71d775c2098e1459fe9a3d5d4e94804bae9d957da4b # use pre-built to bootstrap 
           name: app-inference
